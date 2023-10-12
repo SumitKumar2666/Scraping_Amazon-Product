@@ -1,0 +1,25 @@
+{
+  "name": "scraping_amazon-product",
+  "version": "1.0.0",
+  "description": "Scraping and getting a product from Amazon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "startAPI": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Scraping",
+    "NodeJs",
+    "Express",
+    "Puppeteer",
+    "Amazon",
+    "Product."
+  ],
+  "author": "SumitKumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.3.8"
+  }
+}
