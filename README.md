@@ -15,7 +15,7 @@ npm install
 
 # Usage
 
-1. To scrape details of a product, run the following command in terminal.
+1. To scrape details of a product with hardcoded productName, run the following command in terminal.
 
 ```
 npm start or node index.js
